@@ -1,4 +1,4 @@
-# Hi, I'm Sandipan Mondal 👋
+# Hi, I'm Sandipan Mondal 
 
 M.Sc. Bioinformatics graduate of the **Bioinformatics Centre, Savitribai Phule Pune University**, now at Chanakya University, Bangalore. I work on computational drug discovery against drug-resistant tuberculosis.
 
